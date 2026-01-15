@@ -56,6 +56,8 @@ with a focus on Computational Thinking and multidisciplinary teaching. The origi
 were made to:
 - Adapt the software for educational use
 - Integrate Computational Thinking concepts
+- Include new fractals
+- Permit interaction and inputs
 - Align the tool with the Brazilian BNCC guidelines
 - Support multidisciplinary classroom activities
 
